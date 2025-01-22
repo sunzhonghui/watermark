@@ -93,6 +93,8 @@ The watermark is rendered when the page loads. If no data is provided, default v
 </html>
 ```
 
+![example](https://github.com/sunzhonghui/watermark/blob/main/img/example01.png?raw=true)
+
 ## Browser Compatibility
 
 The script uses modern JavaScript features and is compatible with the latest versions of major browsers.

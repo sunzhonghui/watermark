@@ -93,6 +93,8 @@ document.cookie = 'watermarkDate=2025-01-22';
 </html>
 ```
 
+![example](https://github.com/sunzhonghui/watermark/blob/main/img/example01.png?raw=true)
+
 ## 浏览器兼容性
 
 该脚本使用现代 JavaScript 特性，兼容主流浏览器的最新版本。
