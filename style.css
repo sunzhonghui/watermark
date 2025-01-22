@@ -1,0 +1,22 @@
+body {
+  min-height: 100vh;
+  background: #000;
+}
+
+body {
+  margin: 0;
+  font-family: Avenir, sans-serif;
+}
+
+form {
+  padding: .5rem;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+input, label {
+  padding: inherit;
+}
